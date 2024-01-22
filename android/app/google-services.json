@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304727682678",
+    "project_id": "push-notification-db9ba",
+    "storage_bucket": "push-notification-db9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304727682678:android:752da0d911e7a8091af957",
+        "android_client_info": {
+          "package_name": "com.example.emirates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVUvdDbsUz-t7t7vpIixO8B2StA4VXMfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
